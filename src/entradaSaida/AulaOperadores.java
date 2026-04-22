@@ -15,7 +15,7 @@ public class AulaOperadores {
 		System.out.println("Insira a temperatura em Celsius: ");
 		celsius = leia.nextFloat(); // é importante colocar a virgula entre os numeros
 		
-		// Processamneto
+		// Processamento
 		fahrenheit = celsius * 1.8f + 32;
 		
 		// Saida 
