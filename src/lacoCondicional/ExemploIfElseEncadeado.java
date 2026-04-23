@@ -23,7 +23,7 @@ public class ExemploIfElseEncadeado {
 		if (media >= 6) {
 			System.out.println("Parabens, pessoa participante aprovada!");
 		} 
-		else if( media >= 5) {
+		else if(media >= 5) {
 			System.out.println("Pessoa participante de exame.");	
 		}
 		else {
